@@ -17,3 +17,7 @@ The Internet has exposed (and facilitated) many cultural and lifestyle practices
 ## Political movements and vox pop
 
 Technology should be seen as an opportunity to level the playing field. To disrupt established power centres and empower communities that have long been ignored. Lobby groups should be exposed with full disclosure of motives to allow real choices to be made with all the available information.
+
+## Altruism and perfectability
+
+The constant test/refine cycle of software is bound up in a desire for portability and singular purpose. We should not be distracted by advertising placement or profits for shareholders. Transparency and altruism should be the driving force behind everything, and success/rewards will follow.
